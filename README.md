@@ -30,6 +30,7 @@ The dashboard analyzes:
 * Order status distribution, including delivered, shipped, returned, and cancelled orders
 * Category-wise returns and cancellations
 
+
 ## Key Skills Demonstrated
 
 * Data organization and validation
@@ -42,3 +43,18 @@ The dashboard analyzes:
 ## Note
 
 This project was developed for data analytics practice and portfolio demonstration using an Amazon India sales dataset.
+
+## Dashboard Preview
+
+### 1. Dashboard Overview
+
+![Dashboard Overview](dashboard-overview.png)
+
+### 2. Sales and Profit Analysis
+
+![Sales and Profit Analysis](dashboard-sales-analysis.png)
+
+### 3. Order Status and State-wise Analysis
+
+![Order Status and State-wise Analysis](dashboard-orders-states.png)
+
